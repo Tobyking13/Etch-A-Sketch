@@ -23,7 +23,7 @@ const gridBox = () => {
     gridContainer.style.cssText = `grid-template-columns: repeat(${getGridSize},${gridPx}px)`;
     for (let i = 0; i < loopMax; i++) {
       const gridBox = document.createElement("div");
-      gridBox.classList.add("gridBox", "grid-item");
+      gridBox.classList.add("grid-item");
       gridContainer.appendChild(gridBox);
     }
   } else {
