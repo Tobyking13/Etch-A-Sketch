@@ -15,7 +15,6 @@ console.log(colorsetForest[1]);
 const gridBox = () => {
   let getGridSize = prompt("Grid size? (number must between 4 & 64)");
   if (getGridSize >= 4 && getGridSize <= 64) {
-    console.log(getGridSize);
     const loopMax = getGridSize * getGridSize;
     const gridPx = 800 / getGridSize;
     console.log(loopMax);
