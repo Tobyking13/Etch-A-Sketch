@@ -1,3 +1,3 @@
 ### Screenshot
 
-![Etch-A-Sketch]()
+![Age Calculator](./Screenshot.png)
