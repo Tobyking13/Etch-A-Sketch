@@ -1,4 +1,3 @@
-THE ODIN PROJECT 
-Assignment 3) 
+### Screenshot
 
-Create an Etch-A-Sketch application using Js DOM manipulation. 
+![Etch-A-Sketch]()
